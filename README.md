@@ -1,5 +1,7 @@
 # OpenRare
 
+![OpenRare Logo](./OpenRare_logo.png)
+
 ## OpenRare Rare Disease Agent
 
 **An Explainable AI System for Rare Disease Variant Prioritization**
