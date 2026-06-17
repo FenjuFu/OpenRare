@@ -1,6 +1,6 @@
 # OpenRare
 
-![OpenRare Logo](./OpenRare_logo.png)
+<img src="./OpenRare_logo.png" alt="OpenRare Logo" width="250">
 
 ## OpenRare Rare Disease Agent
 
